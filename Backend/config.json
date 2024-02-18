@@ -1,0 +1,11 @@
+{
+    "db":{
+        "host":"localhost",
+        "port":5432,
+        "username":"postgres",
+        "password":"54321",
+        "database":"ECommerceWebsite",
+        "dialect":"postgres",
+        "logging":false  
+    }
+}
